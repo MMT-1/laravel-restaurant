@@ -37,7 +37,7 @@
                         <i class="fas fa-power-off"></i>
                         <span>Logout</span>
                         </button>
-                        
+                      </form>  
                     </a>
                 </div>
             </li>
